@@ -1,0 +1,22 @@
+{
+  "name": "delta-force-operator-toolkit",
+  "displayName": "Delta Force Operator Toolkit",
+  "programType": "operator-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Operator notes",
+    "Loadout groups",
+    "Control reference"
+  ],
+  "topics": [
+    "delta-force-operator-toolkit",
+    "delta-force-tools",
+    "delta-force-menu",
+    "delta-force-settings",
+    "delta-force-configs",
+    "delta-force-operator-notes",
+    "delta-force-loadout-groups"
+  ]
+}
